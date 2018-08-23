@@ -8,6 +8,7 @@ namespace Colecciones
 {
     class Alumno
     {
+
         public string Nombre { get; set; }
         public string Matricula { get; set; }
 
